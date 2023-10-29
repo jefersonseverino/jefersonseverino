@@ -2,7 +2,7 @@
 **UjwalKandi/UjwalKandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/ujwalkandi" target="_blank" rel="noopener noreferrer"> Jeferson </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/jefersonseverino" target="_blank" rel="noopener noreferrer"> Jeferson </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 </h2>
 
 - 🎓 I'm a Computer Engineering student 
