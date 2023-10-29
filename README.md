@@ -9,22 +9,18 @@
 - 💻 I’m currently a member of RobôCIn
 
 #### Languages and Tools 
-<p>
-    [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,linux,git,bash)](https://skillicons.dev)]
-</p>
-
 <br />
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,linux,py)](https://skillicons.dev)
 
 [![Ujwal Kandi's github stats](https://github-readme-stats-ujwalkandi.vercel.app/api?username=jefersonseverino&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/jefersonseverino?tab=repositories)&nbsp;&nbsp;
 
 #### Find me on  
  <p align='left'>
-   <a href="www.linkedin.com/in/jeferson-severino" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/jeferson-severino/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
 </p>
 
-![build](https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/badge.svg)
-![GitHub last commit](https://github.com/UjwalKandi/UjwalKandi/blob/master/svg/last%20commit.svg)
-![pv](https://pageview.vercel.app/?github_user=UjwalKandi)
+![pv](https://pageview.vercel.app/?github_user=jefersonseverino)
 
 
 -----
