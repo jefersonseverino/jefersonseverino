@@ -10,12 +10,12 @@
 
 #### Languages and Tools 
 <p>
-    [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,linux,git,bash)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,linux,git,bash)](https://skillicons.dev)]
 </p>
 
 <br />
 
-[![Ujwal Kandi's github stats](https://github-readme-stats-ujwalkandi.vercel.app/api?username=jefersonseverino&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/jefersonseverino?tab=repositories)&nbsp;&nbsp;(https://github.com/jefersonseverino)
+[![Ujwal Kandi's github stats](https://github-readme-stats-ujwalkandi.vercel.app/api?username=jefersonseverino&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/jefersonseverino?tab=repositories)&nbsp;&nbsp;
 
 #### Find me on  
  <p align='left'>
