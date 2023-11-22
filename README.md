@@ -20,8 +20,6 @@
    <a href="https://www.linkedin.com/in/jeferson-severino/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
 </p>
 
-![pv](https://pageview.vercel.app/?github_user=jefersonseverino)
-
 
 -----
 Last Edited on: 29/10/2023
