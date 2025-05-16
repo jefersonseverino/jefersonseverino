@@ -21,9 +21,6 @@
 </p>
 
 
------
-Last Edited on: 29/10/2023
-
 <!--
 **jefersonseverino/jefersonseverino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
