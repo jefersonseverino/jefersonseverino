@@ -11,7 +11,7 @@
 #### Languages and Tools 
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,linux,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,linux,py,docker,django,supabase,pytorch,sklearn)](https://skillicons.dev)
 
 [![Ujwal Kandi's github stats](https://github-readme-stats-ujwalkandi.vercel.app/api?username=jefersonseverino&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/jefersonseverino?tab=repositories)&nbsp;&nbsp;
 
